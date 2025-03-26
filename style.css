@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; background: black; color: gold; text-align: center; }
+header { background: #222; padding: 20px; }
+nav a { color: gold; margin: 0 15px; text-decoration: none; }
+.hero { padding: 50px; }
+.btn { background: gold; color: black; padding: 10px 20px; text-decoration: none; font-weight: bold; }
